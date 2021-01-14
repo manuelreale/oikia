@@ -29,7 +29,7 @@ function preload(){
 
 function setup() {
   frame = createElement("iframe");
-  frame.attribute('src', "http://localhost:8002/index.html");
+  frame.attribute('src', "https://manuelreale.github.io/oikia-ospiti/");
   frame.style('border', "none");
   //frame.attribute('scrolling', "no");
   //console.log(data);
